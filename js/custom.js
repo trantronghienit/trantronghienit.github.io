@@ -24,7 +24,7 @@ Project: Wedding Template
             // this.RTL();
             this.Revealslider();
             this.Fancybox();
-            this.Countdown();
+            // this.Countdown();
             this.SmoothScroll();
             this.OwlCarousel();
             // this.RsvpForm();
